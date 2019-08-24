@@ -1,6 +1,6 @@
 ## Test_Repository
 
-A respository for my own learning purposes / to explore what I can do within github.
+A repository for my own learning purposes / to explore what I can do within github.
 
 ---
 
