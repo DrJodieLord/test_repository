@@ -40,3 +40,37 @@ A respository for my own learning purposes / to explore what I can do within git
  1. One
  2. Two
  3. Three
+ 
+ 
+ ---
+ 
+ ### Chunky bits
+
+
+Playing with some chunky codey bits, not nested within text, using nonsense dummy code
+
+
+```
+R --file dummy.R --args example1 example2
+```
+
+Seperate chunky bits:
+ ```
+software
+--args 1 \
+--args 2 \
+--args 3 \
+--args 4 \
+--args 5 \
+--args 6 \
+--args 7 \
+--args n
+```
+
+
+Some colourful chunky bits:
+```python
+import pandas as pd  
+df = pd.read_csv("Dummytable.csv") 
+print df
+```
